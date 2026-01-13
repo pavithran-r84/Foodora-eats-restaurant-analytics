@@ -26,10 +26,10 @@ Data preparation included handling missing values, retaining only relevant attri
 ---
 
 ## Analysis Approach
-- Descriptive and diagnostic analytics  
-- City-level and locality-level performance analysis  
-- Cuisine popularity vs customer satisfaction analysis  
-- Delivery availability impact on ratings  
+- Descriptive and diagnostic analytics,  
+- City-level and locality-level performance analysis, 
+- Cuisine popularity vs customer satisfaction analysis, and 
+- Delivery availability impact on ratings. 
 
 The analysis was conducted primarily using Excel for data preparation and Power BI for visual storytelling.
 
