@@ -49,7 +49,3 @@ The analysis was conducted primarily using Excel for data preparation and Power 
 - Descriptive & diagnostic analytics  
 - Data storytelling  
 
----
-
-## Note
-This project is shared for learning and portfolio purposes to demonstrate analytical thinking and problem-solving approach.
