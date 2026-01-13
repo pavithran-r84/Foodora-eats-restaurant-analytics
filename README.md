@@ -43,14 +43,6 @@ The analysis was conducted primarily using Excel for data preparation and Power 
 
 ---
 
-## Repository Structure
-- `data/` – Raw and cleaned datasets  
-- `analysis/` – Consolidated Excel analysis workbook  
-- `visuals/` – Power BI visual exports  
-- `insights/` – Final case study report document  
-
----
-
 ## Tools & Skills Used
 - Excel (data cleaning and analysis)  
 - Power BI (visualization)  
